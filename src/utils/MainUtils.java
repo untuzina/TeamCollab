@@ -1,12 +1,13 @@
 package utils;
 
 public class MainUtils {
+<<<<<<<HEAD
 
-    public void coolMethod(){
+    public void coolMethod() {
 
     }
 
-    public void otherCoolMethod(){
+    public void otherCoolMethod() {
 
     }
 }
